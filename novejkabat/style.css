@@ -1,0 +1,30 @@
+/* CSS Document */
+.dropdown-toggle {
+   font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: black;
+    background-color: transparent;
+}
+
+#dropdown-pozadi {
+    color:black;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    
+}
+.redyoutube:hover {
+color:red;
+}
+.bluefb:hover {
+color:#355891;
+}
+#center {
+text-align: center;
+}
+.navbar-brand {
+font-size: 23px;
+}
